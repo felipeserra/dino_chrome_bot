@@ -3,9 +3,9 @@ import time
 from PIL import ImageGrab
 import pyautogui
 
-X = 243.0  # X2 = X + 15
+X = 230.0  # X2 = X + 15
 Y1 = 310
-Y2 = 350
+Y2 = 330
 N = 0
 N1 = 0.1
 def capture_screen():
